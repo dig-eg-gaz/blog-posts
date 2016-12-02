@@ -39,4 +39,3 @@ Here are some finer details associated with the paragraph:
 Here are some other scopes and characteristics that can be used:
 -scope= is used with type= in the <div> tag to categorize the content wrapped. I found the following scopes useful for the paper: advertisement, announcements (notices, etc. use at your discretion), calendar, financial (generally, this will be in the tag of the financial templates copied from the site, so you don't have to worry much about it), international, letters, local, social, sporting, weather.
 -n= number (commonly used with column break and type="page")
--next= and prev= point to a division in the paper that continues the content in the current division, either next or previous.
