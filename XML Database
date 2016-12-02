@@ -19,7 +19,6 @@ The most common xml terms are: <cb>, <div>, <head>, <p>.
 Some other xml terms that you might need are as follows: (all of which must be wrapped within a <div>
 -<table> this tag requires the element cols="" inside the tag (i.e.: <table cols="3"></table>). Then, within there are the tags <row> and <cell>. Row can have the element cols="" or role="label", the element cols="" will increase or decrease the amount of columns in that row, either removing one from the end or adding on to the side of the table. Role="label" will make the entire row into a label; this does not have to be the first row of the table and can be used more than once.
 -<measure> wraps any sort of measurement recorded in the paper, and is generally followed by the element unit="". The following common units in the paper are supported by our xml library: $, LE, ard, balles, cantar, fcs, min (minutes), mm (millimeters), PT, sack, sh (shillings), tal (talari), ton, and £.
--<list> can be a <listEvent> (list of events), <listNym> (list of names), <listOrg> (list of organizations), <listPerson> (list of specific people), or <listPlace> (list of places).
 -<date> wraps all dates provided in the paper, contains the element when="yyyy-mm-dd" to catalogue the date wrapped.
 -<persName> wraps persons names, if you can find the wikidata entry referring to that person, you can include the element ref="" and the link to the page in the quotations.
 -<placeName> wraps place names, ref="" can be used similarly to that of <persName>.
@@ -35,6 +34,7 @@ Here are some finer details associated with the paragraph:
 -<lg> wraps a line group, or stanza (for poetry).
 -<q> wraps a quotation.
 -<said> wraps dialogue.
+-<hi> (can also be used in headings) uses the element rend="" with "italic" or "bold" to alter the font of the words.
 
 Here are some other scopes and characteristics that can be used:
 -scope= is used with type= in the <div> tag to categorize the content wrapped. I found the following scopes useful for the paper: advertisement, announcements (notices, etc. use at your discretion), calendar, financial (generally, this will be in the tag of the financial templates copied from the site, so you don't have to worry much about it), international, letters, local, social, sporting, weather.
