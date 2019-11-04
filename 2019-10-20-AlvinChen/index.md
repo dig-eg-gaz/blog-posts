@@ -1,5 +1,5 @@
 ---
-title: "The Down Fall of Thomas Cook Group"
+title: "The Downfall of Thomas Cook Group"
 subtitle: ""
 summary: "Thomas Cook was a mainstream travelling company with long history in England, but the recent bankruptcy struck down this family business."
 authors: [AlvinChen]
@@ -18,10 +18,11 @@ projects: []
 Thomas Cook was an English businessman. He started up his business from a small local shop in London. The shop sold traveling related products such as guidebooks, traveling wears, and maps. Several years later in 1872, he expanded his business with his son John, reformed the company as “Thomas Cook & Son”. [(1)](https://www.telegraph.co.uk/travel/tours/history-of-thomas-cook/) <br />
 
 Throughout the course, we found that Thomas Cook & Son travel company had frequent updates on their advertisements. And they also sponsored the Egyptian Gazette profoundly by putting their advertisements on the title page banner. The company had various travel package options in the Middle East. It was the early age that civilians could afford the expenses and take ships to another continent. In parallel to the analysis of advertisement on the Egyptian Gazette by Olivia Evanoff [(2)](https://dig-eg-gaz.github.io/post/16-analysis-evanoff/), she wrote that 
-> people could “pay the fees that go along with it” in that period. <br />
+> people could “pay the fees that go along with it” in that period. 
 
 It is plausible the early 20 Century is prosperous era in economy. As the company grew, it also owned hotels in Britain primarily, Western Europe, North America, and Middle East. Suggested by a blog post by Kailen Chapple [(3)](https://dig-eg-gaz.github.io/post/18-analysis-chapple/), the company had an enormous impact in the 19th Century. 
-> It is “a new concept…a product of the industrial revolution.”<br />
+> It is “a new concept…a product of the industrial revolution.”
+
 
 <br /><br />![company_ceases_trading](company_ceases_trading.jpg "Thomas Cook ceases trading")<br /><br />
 
