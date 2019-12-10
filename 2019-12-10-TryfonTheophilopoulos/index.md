@@ -2,7 +2,7 @@
 title: "A Look Into The History of Doan's Kidney Pills"
 subtitle:
 summary: "An analysis of the progression of miracle pill advertisement throughout 1905, 1906, and 1907 as a means to make inferences about the overall progression of medicine and marketing of medicines"
-authors: [TryfonGerasimosTheophilopoulos]
+authors: [Tryfon Gerasimos Theophilopoulos]
 tags: ["medicine"]
 categories: [curiosities]
 date: 2019-12-10
@@ -31,5 +31,3 @@ When looking at the similar alternative to the Doan's Kidney Pills, Dr. William'
 [Miraculous Medicine](https://dig-eg-gaz.github.io/post/2017-03-06-baxter-peruna/ )
 
 [Pink Pills for Pale People](https://dig-eg-gaz.github.io/post/18-blog-wallace/ )
-
-https://raycityhistory.wordpress.com/tag/history-of-doans-pills/
