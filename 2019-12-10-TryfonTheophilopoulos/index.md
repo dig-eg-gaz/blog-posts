@@ -16,7 +16,7 @@ projects: []
 ---
 # A Look Into The History of Doan's Kidney Pills
 
-Doan's Kidney Pills were originally advertised as "miracle pills", which claimed to treat a variety of ailments. There were not a large quantity of advertisements that advertised to do a similar thing, but the main two were Doan's Kidney Pills and Dr. William's Pink Pills. Due to the fact that medicine at the time was still developing and overall understanding of illnesses was relatively unknown, actual medical professionals weren't able to properly diagnose and treat many  of their patients properly. This resulted in many individuals going and using these untraditional methods of treatment. At the time, kidney function was poorly understood, and  renal diseases were lumped into a general condition called [Bright’s disease](https://raycityhistory.wordpress.com/2011/03/15/george-emory-swindle-sought-cure-at-buffalo-lithia-springs-va/ ).
+Doan's Kidney Pills were originally advertised as "miracle pills", which claimed to treat a variety of ailments. There were not a large quantity of advertisements that advertised to do a similar thing, but the main two were Doan's Kidney Pills and Dr. William's Pink Pills. Due to the fact that medicine at the time was still developing and overall understanding of illnesses was relatively unknown, actual medical professionals weren't able to properly diagnose and treat many  of their patients properly. This resulted in many individuals going and using these untraditional methods of treatment. In general, kidney function was not well understood, resulting in renal diseases being broadly categorized as [Bright’s disease](https://raycityhistory.wordpress.com/2011/03/15/george-emory-swindle-sought-cure-at-buffalo-lithia-springs-va/ ).
 
 &nbsp;
 
