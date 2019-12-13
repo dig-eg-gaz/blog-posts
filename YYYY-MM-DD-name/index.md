@@ -1,9 +1,9 @@
 ---
 title: "<!--insert-->"
-subtitle: "" <!--optional-->
+subtitle: " <!--optional-->"
 summary: "<!--insert-->"
-authors: [<!--YourFullNameNoSpaces-->]
-tags: ["<!--insert-->", "<!--insert-->" <!--add more as needed-->]
+authors: "[<!--YourFullNameNoSpaces-->]"
+tags: ["<!--insert-->", "<!--insert-->", "<!--add more as needed-->"]
 categories: [curiosities]
 date: YYYY-MM-DD <!--today's date-->
 featured: false

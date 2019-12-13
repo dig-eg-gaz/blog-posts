@@ -3,7 +3,7 @@
 name: Jake Himmel
 
 authors:
-- YourNameNoSpaces
+- JakeHimmel
 
 superuser: no
 
@@ -23,12 +23,9 @@ interests:
 education:
 
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/jbh18g
 
 user_groups:
 - Writers
