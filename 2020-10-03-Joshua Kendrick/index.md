@@ -16,7 +16,7 @@ projects: []
 --
 ![The Sultan's Successor](BlogPost.jpg "Article")
 
-![label](featured.jpg)
+![Sultan](featured.jpg)
 
 # The Sultan's Successor
 
