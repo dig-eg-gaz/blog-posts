@@ -21,9 +21,9 @@ projects: []
 # The Sultan's Successor
 
 ## Works Sited
-*[Cool](https://www.jstor.org/stable/j.ctt7rjf4.16 "Egypt")    
-*(https://www.jstor.org/stable/754198 "Moslem Law in the Mixed Courts of Egypt")    
-*(https://www.jstor.org/stable/4282434 "The Sultan and the Khedive, 1892-1908")    
+*[Egypt](https://www.jstor.org/stable/j.ctt7rjf4.16)    
+*[Moslem Law in the Mixed Courts of Egypt](https://www.jstor.org/stable/754198)    
+*[The Sultan and the Khedive, 1892-1908](https://www.jstor.org/stable/4282434)    
 
 ### Related Works
 *(https://dig-eg-gaz.github.io/post/2019-12-13-jimmymendez/)  
