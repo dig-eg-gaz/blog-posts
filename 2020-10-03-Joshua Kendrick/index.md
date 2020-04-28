@@ -26,6 +26,6 @@ projects: []
 *[The Sultan and the Khedive, 1892-1908](https://www.jstor.org/stable/4282434)    
 
 ### Related Works
-*(https://dig-eg-gaz.github.io/post/2019-12-13-jimmymendez/)  
-*(https://dig-eg-gaz.github.io/post/2019-10-16-oscar/)  
+*[The Sultan's Kidney Disease](https://dig-eg-gaz.github.io/post/2019-12-13-jimmymendez/)  
+*[The Russian Revolution of 1905](https://dig-eg-gaz.github.io/post/2019-10-16-oscar/)  
 
