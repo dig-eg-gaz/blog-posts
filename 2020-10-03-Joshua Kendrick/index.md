@@ -18,4 +18,4 @@ Insert text here in Markdown format.
 
 If you want to include other images, add the image file to the folder containing this file, and use this format:
 
-![image-The Sultan's Successor](image-BlogPost.png "Article")
+![image-The Sultan's Successor](image-BlogPost.jpg "Article")
