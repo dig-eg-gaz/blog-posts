@@ -26,6 +26,6 @@ projects: []
 *https://www.jstor.org/stable/754198
 
 ### Related Works
-*https://dig-eg-gaz.github.io/post/2019-12-13-jimmymendez/
-*https://dig-eg-gaz.github.io/post/2019-10-16-oscar/
+*https://dig-eg-gaz.github.io/post/2019-12-13-jimmymendez/  
+*https://dig-eg-gaz.github.io/post/2019-10-16-oscar/  
 
