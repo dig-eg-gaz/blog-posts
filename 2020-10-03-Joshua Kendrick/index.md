@@ -13,9 +13,9 @@ image:
   focal_point: "Smart"
   preview_only: true
 projects: []
----
-Insert text here in Markdown format.
-
-If you want to include other images, add the image file to the folder containing this file, and use this format:
-
+--
 ![The Sultan's Successor](BlogPost.jpg "Article")
+
+![label](featured.jpg)
+
+# The Sultan's Successor
