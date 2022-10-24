@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Your Name
+name: McKenna Oakley
 
 authors:
-- YourNameNoSpaces
+- McKennaOakley
 
 superuser: no
 
@@ -16,26 +16,21 @@ organizations:
   url: "https://fsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
+bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022 and is a Creative Writing major.
 
 interests:
-# - point form
+# - Creative writing
+# - Professional rhetoric
+# - Publishing
 
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
-# add these accounts if you would like
-# - icon: instagram
-#  icon_pack: fab
-#  link: https://instragram.com/<!-- your username -->
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/<!-- your username -->
+  link: https://github.com/<!-- mckennaoakley -->
 
 user_groups:
 - Writers
 ---
-The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
+The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022.
 
 
