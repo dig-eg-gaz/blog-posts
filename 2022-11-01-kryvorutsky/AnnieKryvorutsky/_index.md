@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Your Name
+name: Annie Kryvorutsky
 
 authors:
-- YourNameNoSpaces
+- AnnieKryvorutsky
 
 superuser: no
 
