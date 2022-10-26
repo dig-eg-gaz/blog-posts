@@ -20,7 +20,4 @@ It is also important to note that even though Voigt’s actions did not directly
 ##Sources:##
 [This Day In History - October 17 1906](https://www.history.com/this-day-in-history/a-shoemaker-leads-german-soldiers-in-a-robbery)  
 [_Journalistische Vermittlung und ihre Aneignung_ - Abstract](https://journals.univie.ac.at/index.php/oezg/article/view/5087)
-[_Anti-Freud_
-Karl Kraus's Criticism of Psycho-analysis and Psychiatry
-By Thomas Szasz, Karl Kraus · 1990 (Page 122)]
-(https://www.google.com/books/edition/Anti_Freud/qXApVDVKWZUC?hl=en&gbpv=0)
+[_Anti-Freud_: Karl Kraus's Criticism of Psycho-analysis and Psychiatry By Thomas Szasz, Karl Kraus · 1990 (Page 122)](https://www.google.com/books/edition/Anti_Freud/qXApVDVKWZUC?hl=en&gbpv=0)
