@@ -19,12 +19,12 @@ organizations:
 bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
 
 interests:
-# - point form
+# - accounting, environmental science, photography
 
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/AnnieKryvorutsky
 # add these accounts if you would like
 # - icon: instagram
 #  icon_pack: fab
