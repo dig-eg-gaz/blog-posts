@@ -3,7 +3,7 @@
 name: Your Name
 
 authors:
-- YourNameNoSpaces
+- raineysharrow
 
 superuser: no
 
@@ -16,7 +16,7 @@ organizations:
   url: "https://fsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
+bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022.
 
 interests:
 # - point form
@@ -24,18 +24,16 @@ interests:
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/rls22a
 # add these accounts if you would like
 # - icon: instagram
 #  icon_pack: fab
-#  link: https://instragram.com/<!-- your username -->
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/<!-- your username -->
+#  link: https://instragram.com/raineysunny
+
 
 user_groups:
 - Writers
 ---
-The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
+The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022.
 
 
