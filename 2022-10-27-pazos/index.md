@@ -1,3 +1,4 @@
+---
 title: "Prison Scurvy"
 subtitle: ""
 summary: "A Scurvy outbreak across prisons in Egypt calls into question treatment of prisoners in Egypt.""
