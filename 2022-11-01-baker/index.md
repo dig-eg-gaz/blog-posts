@@ -9,7 +9,7 @@ date: 2022-12-07
 featured: false
 draft: false
 image:
-  caption: "<!--insert caption, perhaps including date of issue in which feature image appears-->"
+  caption: "Young workers strikes outside the coal minery asking for better working conditions."
   focal_point: "Smart"
   preview_only: true
 projects: []
@@ -18,4 +18,4 @@ projects: []
 
 If you want to include other images, add the image file to the folder containing this file, and use this format:
 
-![image-name](image-filename.png "Caption")
+![coal strike in Egypt 1904](image-filename.png "Caption")
