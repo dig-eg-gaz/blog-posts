@@ -22,4 +22,4 @@ Egyptian government officials watched their country become dirty, barren, and in
 
 ![label](featured.jpg)
 
-![Image label](1908 article snipbit.JPG)
+![Image label](snipbit.JPG)
