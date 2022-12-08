@@ -18,4 +18,4 @@ projects: []
 
 If you want to include other images, add the image file to the folder containing this file, and use this format:
 
-![coal strike in Egypt 1904](image-filename.png "Caption")
+![coal strike in Egypt 1904](coal strike in Egypt 1904.png "Caption")
