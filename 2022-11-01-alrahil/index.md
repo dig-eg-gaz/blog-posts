@@ -7,7 +7,8 @@ categories: [curiosities]
 date: 2022-12-10
 featured: false
 draft: false
-image:
+image: ![label](featured.jpg)![seaga store](https://user-images.githubusercontent.com/112193565/206920839-c93456e0-5a05-4bf3-bec2-0aaecdf34591.jpg)
+
   caption: "The store of the Seaga Family, a prominent Arab family in the history of Jamaica, circa early 1900s"
   focal_point: "Smart"
   preview_only: true
