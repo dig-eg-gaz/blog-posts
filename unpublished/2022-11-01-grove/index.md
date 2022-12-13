@@ -2,7 +2,7 @@
 title: "Russo-Japanese War"
 subtitle: ""
 summary: "Siege of Port Arthur"
-authors: [AlexGrove]
+authors: [AlexanderGrove]
 tags: ["Japan", "Russia", "Russo-Japanese"]
 categories: [curiosities]
 date: 2022-10-27
